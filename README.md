@@ -1,4 +1,4 @@
-<img src="https://github.com/maaz2734/maaz2734/blob/main/download.png">
+<img width="100%" src="https://github.com/maaz2734/maaz2734/blob/main/download.png">
 <h1 align="center">Hi 👋, I'm Mohammad Maaz</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
