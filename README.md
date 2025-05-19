@@ -1,6 +1,7 @@
 <img width="100%" src="https://github.com/maaz2734/maaz2734/blob/main/download.png">
 <h1 align="center">Hi 👋, I'm Mohammad Maaz</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
+<img width="400" align="right" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maaz2734&label=Profile%20views&color=0e75b6&style=flat" alt="maaz2734" /> </p>
 
